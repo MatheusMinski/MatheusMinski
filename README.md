@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMinski&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LossoLeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LossoLeo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
